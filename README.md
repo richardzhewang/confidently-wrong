@@ -131,6 +131,12 @@ with the model outputs.
 - Scripts that index token positions force right padding. Generation scripts use left
   padding, which decoder-only `generate` requires.
 
+## License
+
+The code is released under the MIT License (see `LICENSE`). The files in `study/data/`
+contain question and context text from FinQA and TAT-QA, which remain under the licenses
+listed in the table above.
+
 ## Citation
 
 ```bibtex
