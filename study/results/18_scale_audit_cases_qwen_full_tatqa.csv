@@ -1,0 +1,67 @@
+id,gold,pred,scale,kind,question
+tatqa48,$(9.8) million,-9819,0.001,thousand_scale,"Question: What was the net profit/(loss) after tax in FY19?
+Answer:"
+tatqa49,$85.1 million,85100,0.001,thousand_scale,"Question: What was the underlying EBITDA in FY19?
+Answer:"
+tatqa66,$1.2 billion,1200,0.001,thousand_scale,"Question: What was the Total unrecognized compensation cost related to non-vested awards at December 31, 2019?
+Answer:"
+tatqa264,$1.1 million,1100,0.001,thousand_scale,"Question: What was the liability reserve for unrecognized income tax position at 31 March 2019?
+Answer:"
+tatqa294,$29.3 million,29300,0.001,thousand_scale,"Question: What was the increase in our cost of license and subscription revenue?
+Answer:"
+tatqa296,$9.5 million,9500,0.001,thousand_scale,"Question: What was the hosting related costs in 2018?
+Answer:"
+tatqa300,$1.1 billion,1100,0.001,thousand_scale,"Question: As of December 31, 2019, what was the unrecognized compensation cost related to non-vested RSUs?
+Answer:"
+tatqa376,140.8,140800,0.001,thousand_scale,"Question: What is the sum of amounts billed due on U.S. federal government contracts in 2018 and 2019?
+Answer:"
+tatqa379,$72.3 million,72300,0.001,thousand_scale,"Question: How much was borrowed under credit facilities during 2019?
+Answer:"
+tatqa380,$54.5 million,54500,0.001,thousand_scale,"Question: How much was the debt outstanding as at 2019 year end?
+Answer:"
+tatqa432,$2.5 million,2500,0.001,thousand_scale,"Question: What was the depreciation amount in 2019?
+Answer:"
+tatqa433,$2.6 million,2600,0.001,thousand_scale,"Question: What was the depreciation amount in 2018?
+Answer:"
+tatqa434,$2.5 million,2500,0.001,thousand_scale,"Question: What was the total amortization expense on capitalized internal-use software in 2019?
+Answer:"
+tatqa472,112,112000,0.001,thousand_scale,"Question: What is the change in Allowance for expected credit losses from 2018 to 2019?
+Answer:"
+tatqa502,$148.6 million,148599,0.001,thousand_scale,"Question: What was the income from vessel operations for Teekay LNG in 2018?
+Answer:"
+tatqa503,$53.1 million,53863,0.001,thousand_scale,"Question: What was the increase in the write-down in 2018?
+Answer:"
+tatqa511,$8.0 million,8000,0.001,thousand_scale,"Question: How much was the company's investment in Talespin, Inc?
+Answer:"
+tatqa550,229316,229.3,1000.0,thousand_scale,"Question: What is the change in total net sales between 2018 and 2019?
+Answer:"
+tatqa572,$2.2 million,2200,0.001,thousand_scale,"Question: How much did North America expenses decrease by from 2018 to 2019?
+Answer:"
+tatqa665,149727,149727000,0.001,thousand_scale,"Question: What is the average net voyage revenue in 2018 and 2019?
+Answer:"
+tatqa818,$0.9 million,900,0.001,thousand_scale,"Question: How much was the accrued expenses associated with the Horizon Clinicals and Series2000 Revenue Cycle businesses on the consolidated balance sheets as of December 31, 2018?
+Answer:"
+tatqa864,$3.0 million,3000,0.001,thousand_scale,"Question: What was the company's accrued interest and penalties in 2019?
+Answer:"
+tatqa895,$1.8 million,1800,0.001,thousand_scale,"Question: How much cash was provided from financing activities in 2018?
+Answer:"
+tatqa954,$16.9 million,16901,0.001,thousand_scale,"Question: What was the increase in interest income in 2019?
+Answer:"
+tatqa960,$191.7 million,191700,0.001,thousand_scale,"Question: What is the Company's valuation allowance against its U.S deferred tax assets as of December 31, 2019?
+Answer:"
+tatqa961,$52.9 million,52900,0.001,thousand_scale,"Question: What is the Company's valuation allowance against certain of its foreign deferred tax assets as of December 31, 2019?
+Answer:"
+tatqa1212,$1.9 million,1910,0.001,thousand_scale,"Question: What is the value of the goodwill impairment charge in the fourth quarter of 2019?
+Answer:"
+tatqa1213,$14.7 million,14740,0.001,thousand_scale,"Question: What is the value of the goodwill impairment charge in the third quarter of 2018?
+Answer:"
+tatqa1273,$2.9 million,2880,0.001,thousand_scale,"Question: What was the increase in valuation allowance in current fiscal year?
+Answer:"
+tatqa1284,$2.7 billion,2700,0.001,thousand_scale,"Question: What was the amortization and deferred cost expense in 2019?
+Answer:"
+tatqa1285,$2.0 billion,2000,0.001,thousand_scale,"Question: What was the amortization and deferred cost expense in 2018?
+Answer:"
+tatqa1328,"$25,153,000",25153,1000.0,thousand_scale,"Question: What is the carrying amount and contractual cash flows at 30 June 2019?
+Answer:"
+tatqa1488,$1.2 million,1205,0.001,thousand_scale,"Question: What was the increase in interest income?
+Answer:"

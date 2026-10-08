@@ -1,0 +1,176 @@
+id,gold,pred,scale,kind,question
+finqa32,14.9,"$14,900",0.001,thousand_scale,"Question: what was the total fees earned in 2016 for management , leasing and construction and development
+Answer:"
+finqa49,93670.33333,$93.67,1000.0,thousand_scale,"Question: for the years ended december 31 2017 , 2016 , and 2015 , what was the average beginning balance in millions?
+Answer:"
+finqa215,1171.4,"1,171,400",0.001,thousand_scale,"Question: what was the change pre-tax catastrophe losses from 2016 to 2017 in thousands
+Answer:"
+finqa224,0.02165,21.6%,0.001,thousand_scale,"Question: in 2011 , what percentage of common stocks were issued from treasury stock from stock option activity?
+Answer:"
+finqa266,313.81356,31351.69,0.01,percent_unsupported,"Question: what were total mainline operating expenses in 2013?
+Answer:"
+finqa293,211874.5,"211,874,500",0.001,thousand_scale,"Question: what is the average of intangible assets from 2011-2012 , in thousands?
+Answer:"
+finqa355,22441.0,$22.441,1000.0,thousand_scale,"Question: what was the average bad debt allowance for the past three years , in billions?
+Answer:"
+finqa416,3058.0,"$3,058,000",0.001,thousand_scale,"Question: what is the total expected payments related to long-term debt , including capital leases in the next 24 months , in thousands?
+Answer:"
+finqa426,1.04956,1037,0.001,thousand_scale,"Question: what was the increase in total operating revenues in 2013?
+Answer:"
+finqa427,413.3,"$413,300",0.001,thousand_scale,"Question: what were total transportation and storage costs incurred under these agreements for the years ended december 31 , 2017 , 2016 and 2015?
+Answer:"
+finqa457,56784.0,568.64,100.0,percent_unsupported,"Question: what was the fair value amount of emea regional consumer banking
+Answer:"
+finqa460,282076.0,"= $282,",1000.0,thousand_scale,"Question: what is the the total depreciation and amortization expense in 2005?
+Answer:"
+finqa495,148.27586,"148,276",0.001,thousand_scale,"Question: what was the number of stockholders of record on january 12 , 2017 , for an aggregate amount of $ 43 million .
+Answer:"
+finqa718,5.9,"$5,899.5",0.001,thousand_scale,"Question: what is the annual amortization expense for the customer-related and network location intangibles , in millions?
+Answer:"
+finqa782,950000.0,950,1000.0,thousand_scale,"Question: what was the total value of notes issued by kilimanjaro in 2014 in thousands
+Answer:"
+finqa791,0.018,18%,0.001,thousand_scale,"Question: what is the percent of interest and penalties as part of the unrecognized tax benefits as of december 312007
+Answer:"
+finqa847,148030.48,"= $147,796,880",0.001,thousand_scale,"Question: based on average sales price , how much refined product sales revenue did mro achieve in 2008?
+Answer:"
+finqa900,35714.6,"$35,571,000",0.001,thousand_scale,"Question: what was the value of the nonvested shares at december 31 2009
+Answer:"
+finqa1032,104554.57447,$103.357,1000.0,thousand_scale,"Question: what would the estimated minimum amount of tier 1 common equity be under the minimum basel 6.5% ( 6.5 % ) standard ? ( billions )
+Answer:"
+finqa1054,36500.0,"$36,500,000",0.001,thousand_scale,"Question: what is the estimated yearly amortization expense related to trademarks?
+Answer:"
+finqa1106,467.0,"467,000",0.001,thousand_scale,"Question: in 2011 what was the change nonvested incentive/ performance unit shares
+Answer:"
+finqa1200,0.4359,43.6%,0.01,percent_unsupported,"Question: what as the leverage of the debt to assets of elder trust at the time of the to the purchase
+Answer:"
+finqa1346,18576.0,"$18,576,000",0.001,thousand_scale,"Question: how is the cash flow of entergy mississippi affected by the balance in money pool from 2006 to 2007?
+Answer:"
+finqa1567,0.0051,5.1,0.001,thousand_scale,"Question: what was the ratio of the amount of our outstanding foreign currency hedges in 2015 compared to 2014
+Answer:"
+finqa1572,543.194,"$543,194",0.001,thousand_scale,"Question: what amount of long-term debt is due in the next 24 months for entergy corporation as of december 31 , 2004 , in millions?
+Answer:"
+finqa1584,10.5,"10,481",0.001,thousand_scale,"Question: as of december 2 , 2011 , what would capital lease obligations be in millions excluding of current debt?
+Answer:"
+finqa1597,57740.0,$57.74,1000.0,thousand_scale,"Question: in millions , what were total tax related prepaids in 2014?
+Answer:"
+finqa1616,1164.0,"$1,164,000",0.001,thousand_scale,"Question: what is the total increase ross unrecognized tax benefits based on positions related to prior and current year?
+Answer:"
+finqa1634,1000.0,But we can calculate the current total of service cost and interest cost using the information that a 1% change in assumed health care cost trend rates has an effect of $10 million on the total of service cost and interest cost.,1000.0,thousand_scale,"Question: what is the current total of service cost and interest cost?
+Answer:"
+finqa1834,17439.15,$17.4 million,1000.0,thousand_scale,"Question: what is the total fair value of vested shares in 2016?
+Answer:"
+finqa1865,0.01318,13.19,0.001,thousand_scale,"Question: what was the ratio of the assets to stockholders equity in 2008
+Answer:"
+finqa2000,966.0,$0.966 billion,1000.0,thousand_scale,"Question: what was the difference in millions in the aggregate amount of losses reported in 201cmarket making 201d and 201cother principal transactions 201d respectively?
+Answer:"
+finqa2134,0.45251,452,0.001,thousand_scale,"Question: what portion of the total contractual obligations is related to the repayment of debt principal?
+Answer:"
+finqa2186,56010396.84,"$5,600,111,005",0.01,percent_unsupported,"Question: what is the estimated value , in dollars , of the total number of shares purchased between 9/30/07 and 10/26/07?
+Answer:"
+finqa2247,16461000.0,"$16,461",1000.0,thousand_scale,"Question: for 2012 and 2011 , percentage rentals based on tenants 2019 sales totaled what in thousands?
+Answer:"
+finqa2299,750.0,$0.75,1000.0,thousand_scale,"Question: what was the change in non-cancellable operating lease expense in millions between 2011 and 2012?
+Answer:"
+finqa2333,0.035,35%,0.001,thousand_scale,"Question: what is the effective income tax rate in 2011 based on the information about the gains on sales of discontinued operations?
+Answer:"
+finqa2425,0.00449,4.5,0.001,thousand_scale,"Question: what was the percent of the new entergy arkansas credit facility to the accounts receivables in 2011
+Answer:"
+finqa2517,0.02042,20.4%,0.001,thousand_scale,"Question: what was connected fitness as a percentage of total net revenue in 2017?
+Answer:"
+finqa2577,0.53094,$529.41,0.001,thousand_scale,"Question: in 2010 what was the total revenues per mile
+Answer:"
+finqa2625,34432.92683,3451600,0.01,percent_unsupported,"Question: as of december 2007 what was the approximate total of the total commercial medical membership
+Answer:"
+finqa2743,56.52358,"$5,670.11",0.01,percent_unsupported,"Question: with 2014 closing stock price , what is the total value of the award for the additional shares , ( in millions ) ?
+Answer:"
+finqa2930,890.0,$0.89 billion,1000.0,thousand_scale,"Question: how is the cash flow statement from financing activities affected by the change in the balance of the long-term debt during 2014 , in millions?
+Answer:"
+finqa3088,0.05173,$5.20 billion,0.01,percent_unsupported,"Question: what is the net interest income in 2011?
+Answer:"
+finqa3291,66679.0,66.679,1000.0,thousand_scale,"Question: in thousands , what was the average number of shares of class a common stock outstanding?
+Answer:"
+finqa3442,4425.0,$4.425,1000.0,thousand_scale,"Question: excluding the gain on sale of discontinued operations , what was the income from discontinued operations , in millions?
+Answer:"
+finqa3453,0.02736,27.3,0.001,thousand_scale,"Question: what percentage of operating income was the emea segment in 2016?
+Answer:"
+finqa3485,9822.0,$9.822,1000.0,thousand_scale,"Question: what were net assets in millions acquired net of accounts receivable?
+Answer:"
+finqa3549,110774.5,"110,774,500",0.001,thousand_scale,"Question: what was the firm's average sum of contractual principal , interest and fees in 2008 and 2009?
+Answer:"
+finqa3618,0.07743,77.5,0.001,thousand_scale,"Question: considering the year 2016 , what is the percentage of unproved properties among the total properties?
+Answer:"
+finqa3706,42645.0,42645000,0.001,thousand_scale,"Question: what was the sum of the entergy louisiana 2019s receivables from the money pool from 2014 to 2017
+Answer:"
+finqa3729,0.25325,253/1000 = 0.253,0.001,thousand_scale,"Question: what portion of the total capabilities is generated from coal stations for entergy arkansas?
+Answer:"
+finqa3816,0.40538,405/1000,0.001,thousand_scale,"Question: what portion of the total repurchase of share has occurred during november?
+Answer:"
+finqa3849,6267.0,$6.267,1000.0,thousand_scale,"Question: what was the increase in payroll and related withholdings in 2014 , in millions?
+Answer:"
+finqa3901,16701000.0,"16,701",1000.0,thousand_scale,"Question: percentage rents totaled what in thousands for the years ended december 31 , 2008 and 2007?
+Answer:"
+finqa3918,1135.487,"$1,135,487",0.001,thousand_scale,"Question: what amount of long-term debt is due in the next 24 months for entergy corporation as of december 31 , 2016 , in millions?
+Answer:"
+finqa3958,1928.88,"$1,926,080",0.001,thousand_scale,"Question: what was the market cap of common stock as of march 28 , 2005?
+Answer:"
+finqa3979,38158.0,"$38,802,000",0.001,thousand_scale,"Question: what was the sum of the entergy mississippi 2019s receivables from the money pool from 2014 to 2017
+Answer:"
+finqa4001,10705.0,"$10,705,000",0.001,thousand_scale,"Question: how is cash flow of system energy affected by the change in balance of money pool from 2007 to 2008?
+Answer:"
+finqa4040,23595.0,$23.6,1000.0,thousand_scale,"Question: for fiscal year 2004 , what was the difference between future minimum lease payments and future minimum sublease income , in millions?
+Answer:"
+finqa4045,2.0,2012,0.001,thousand_scale,"Question: what is the current tax examination period in virginia , in years?
+Answer:"
+finqa4206,0.00586,5.87,0.001,thousand_scale,"Question: in 2007 what was the ratio of the unsecured notes to the outstanding unsecured lines of credit
+Answer:"
+finqa4260,5207.28,$5.2 billion,1000.0,thousand_scale,"Question: how much segmented net sales was earned in the north america in 2007?
+Answer:"
+finqa4295,197804.0,"However, this is not the correct answer. The correct answer is the sum of the amounts for the years 2010-2014 and the ""thereafter"" amount is not included in the sum of the years 2010-2014. The correct answer is the sum of the amounts for the years 2010-2014 and the ""thereafter"" amount is a separate amount.",100.0,percent_unsupported,"Question: what is the total of aggregate annual maturities of long-term debt obligations for citigroup parent company in millions?
+Answer:"
+finqa4349,11.5561,"$1,157",0.01,percent_unsupported,"Question: what are the total proceeds from the issuance of employee options during february 2004 , in millions?
+Answer:"
+finqa4362,0.67059,684,0.001,thousand_scale,"Question: what was the total debt to the assets of the items acquired
+Answer:"
+finqa4415,64.0,"$64,000",0.001,thousand_scale,"Question: what was the change in warranty reserves from 2008 to 2009?
+Answer:"
+finqa4453,154.0,"154,000",0.001,thousand_scale,"Question: what were total ethanol volumes sold in blended gasoline in 2009 , 2008 , and 2007 in tbd?
+Answer:"
+finqa4625,66849.7,66.9,1000.0,thousand_scale,"Question: for 2010 , what were the total number of shares of common stock outstanding , in thousands?
+Answer:"
+finqa4661,100.0,The depreciation expense for a 1-year decrease in,100.0,percent_unsupported,"Question: what is the depreciation expense with the production facilities within the electronics and performance materials segment accumulated in 10 years?
+Answer:"
+finqa4743,-172.0,"-172,000",0.001,thousand_scale,"Question: what is the net change in the balance of unvested shares from 2013 to 2015?
+Answer:"
+finqa4845,0.05055,50.53,0.001,thousand_scale,"Question: as of december 2004 what was the percent of the total future minimum rental payments under non-cancelable operating leases due in 2009
+Answer:"
+finqa4975,2022974.0,"$2,022,714,000",0.001,thousand_scale,"Question: what was net operating income in millions attributable to triple-net and seniors housing?
+Answer:"
+finqa5166,251599.67,"$251,516,670",0.001,thousand_scale,"Question: what was the total grant datefair value , in dollars , at the beginning of the year?
+Answer:"
+finqa5223,0.17087,= $0.000171 million per tower,1000.0,thousand_scale,"Question: based on the agreement what was the average price completed the purchase of exclusive use rights to the towers in 2010 in millions
+Answer:"
+finqa5299,742.733,"$742,733",0.001,thousand_scale,"Question: what amount of long-term debt is due in the next 36 months for entergy corporation as of december 31 , 2004 , in millions?
+Answer:"
+finqa5321,0.14534,$145.3,0.001,thousand_scale,"Question: as part of the acquisition of 5483 communications sites from tim in brazil what was the average price per site in millions
+Answer:"
+finqa5382,44.8,"$44,800",0.001,thousand_scale,"Question: what is the yearly amortization expense related to trademark , ( in thousands ) ?
+Answer:"
+finqa5427,3524000.0,"$3,524",1000.0,thousand_scale,"Question: as of december 31 , 2008 , future base rental revenue under non-cancelable operating leases , excluding rents for leases with an original term of less than one year and rents resulting from the exercise of renewal options , totaled what ( in thousands ) for the years ending december 31 200"
+finqa5488,0.01707,17.1%,0.001,thousand_scale,"Question: what percentage of total goodwill does energy services represent at december 31 , 2007?
+Answer:"
+finqa5514,321.28514,$0.32,1000.0,thousand_scale,"Question: for 2010 , given the class a common stock issued to non-executive directors and the recognized expense , what is the approximate deemed fair value per share at date of issuance?
+Answer:"
+finqa5516,0.00602,6.01,0.001,thousand_scale,"Question: at december 31 , 2002 what was the ratio of the company unsecured debt to the secured debt outstanding
+Answer:"
+finqa5642,310.0,"So, the annual amortization cost for the trademark will be $310,000.",0.001,thousand_scale,"Question: what will be the amortization cost in thousands each year for the trademark?
+Answer:"
+finqa5762,0.01399,"However, the question asks for the shipment volume in billions, and the context also mentions that the shipment volume for cigars was approximately 1.4 billion units in 2016, an increase of 5.9% from 2015. This implies that the shipment volume in 2015 is 1.4 / 1.059 = 1.319 billion units, but the context also mentions that the shipment volume for cigars was approximately 1.4 billion units in 2016, an increase of 5.9% from 2015, which is 1.4 / 1.059 = 1.319 billion units. However, the context also mentions that the shipment volume for cigars was approximately 1.4 billion units in 2016, an increase of 5.9% from 2015, which is 1.4 / 1.059 = 1.319 billion",0.01,percent_unsupported,"Question: what is the total units of shipment volume for cigars in 2015 , in billions?
+Answer:"
+finqa5892,1210.0,$1.21 billion,1000.0,thousand_scale,"Question: what was the cumulative asian industrial packaging net sales from 2011 to 2013
+Answer:"
+finqa5947,402.0,0.402,1000.0,thousand_scale,"Question: what was the change in the 2 discretionary matching contributions from 2004 to 2005 in millions
+Answer:"
+finqa6035,-0.5,-$500,0.001,thousand_scale,"Question: in 2014 what was the decrease in printing papers net sales in millions
+Answer:"
+finqa6098,45.0,"$45,000",0.001,thousand_scale,"Question: what was the change in thousands of the warranty expense incurred for the year from 2005 to 2006?
+Answer:"

@@ -1,0 +1,105 @@
+id,gold,pred,scale,kind,question
+finqa9,56.57146,56534.45,0.001,thousand_scale,"Question: how is net change in cash from financing activity affected by the share repurchase during december 20018 , ( in millions ) ?
+Answer:"
+finqa32,14.9,14900,0.001,thousand_scale,"Question: what was the total fees earned in 2016 for management , leasing and construction and development
+Answer:"
+finqa215,1171.4,1171400,0.001,thousand_scale,"Question: what was the change pre-tax catastrophe losses from 2016 to 2017 in thousands
+Answer:"
+finqa266,313.81356,31383.07,0.01,percent_unsupported,"Question: what were total mainline operating expenses in 2013?
+Answer:"
+finqa355,22441.0,22.441,1000.0,thousand_scale,"Question: what was the average bad debt allowance for the past three years , in billions?
+Answer:"
+finqa394,1.85324,1855.64,0.001,thousand_scale,"Question: what is the total cash received from shares purchased from employees during 2009 , in millions?
+Answer:"
+finqa426,1.04956,1037,0.001,thousand_scale,"Question: what was the increase in total operating revenues in 2013?
+Answer:"
+finqa427,413.3,413300,0.001,thousand_scale,"Question: what were total transportation and storage costs incurred under these agreements for the years ended december 31 , 2017 , 2016 and 2015?
+Answer:"
+finqa457,56784.0,568.8,100.0,percent_unsupported,"Question: what was the fair value amount of emea regional consumer banking
+Answer:"
+finqa513,270111.0,270.111,1000.0,thousand_scale,"Question: what was the sum of the entergy arkansas 2019s payables from 2015 to 2017 in millions
+Answer:"
+finqa576,0.09148,91.50,0.001,thousand_scale,"Question: what is the percentage of operating leases among the total future minimum payments , in 2010?
+Answer:"
+finqa791,0.018,18,0.001,thousand_scale,"Question: what is the percent of interest and penalties as part of the unrecognized tax benefits as of december 312007
+Answer:"
+finqa895,128.3944,128364.02,0.001,thousand_scale,"Question: what is the total value of repurchased shares during december 2012 , in millions?
+Answer:"
+finqa1032,104554.57447,103.406745,1000.0,thousand_scale,"Question: what would the estimated minimum amount of tier 1 common equity be under the minimum basel 6.5% ( 6.5 % ) standard ? ( billions )
+Answer:"
+finqa1132,323.562,323562,0.001,thousand_scale,"Question: in 2013 , what was the balance in the investment securities portfolio without htm securities , in us$ b?
+Answer:"
+finqa1567,0.0051,5.10,0.001,thousand_scale,"Question: what was the ratio of the amount of our outstanding foreign currency hedges in 2015 compared to 2014
+Answer:"
+finqa1597,57740.0,57.74,1000.0,thousand_scale,"Question: in millions , what were total tax related prepaids in 2014?
+Answer:"
+finqa1834,17439.15,17.4,1000.0,thousand_scale,"Question: what is the total fair value of vested shares in 2016?
+Answer:"
+finqa1865,0.01318,13.18,0.001,thousand_scale,"Question: what was the ratio of the assets to stockholders equity in 2008
+Answer:"
+finqa1987,2745454.54545,2745.45,1000.0,thousand_scale,"Question: what is the yearly amortization expense for the economic rights agreement assuming an 11 year effective life?
+Answer:"
+finqa2021,32.2,32200,0.001,thousand_scale,"Question: what is the total net operating loss that must be utilized before expiration between may 31 , 2017 and may 31 , 2033?
+Answer:"
+finqa2035,13.0,13000,0.001,thousand_scale,"Question: what was total amount of cash held by the federal reserve bank of chicago on behalf of the cme , including cash accounts and ief programs on december 31st , 2016?
+Answer:"
+finqa2333,0.035,35,0.001,thousand_scale,"Question: what is the effective income tax rate in 2011 based on the information about the gains on sales of discontinued operations?
+Answer:"
+finqa2478,34.2,34200,0.001,thousand_scale,"Question: for december 31 , 2009 , what was the total value of segregated collateral for the benefit of brokerage customers in millions?
+Answer:"
+finqa2594,7781700000.0,7800000000000,0.001,thousand_scale,"Question: for 2010 , what was the net deferred tax liability?
+Answer:"
+finqa2625,34432.92683,3451600,0.01,percent_unsupported,"Question: as of december 2007 what was the approximate total of the total commercial medical membership
+Answer:"
+finqa2711,2.7,2700,0.001,thousand_scale,"Question: for the eagle spinoff , how much in total did ppg shareholders receive in us$ b?
+Answer:"
+finqa3267,78.66751,78564.31,0.001,thousand_scale,"Question: what is the total value of repurchased shares during october 2012 , in millions?
+Answer:"
+finqa3345,0.13681,136.76,0.001,thousand_scale,"Question: what is the total value of issued securities that are approved by security holders , in billions?
+Answer:"
+finqa3442,4425.0,4.425,1000.0,thousand_scale,"Question: excluding the gain on sale of discontinued operations , what was the income from discontinued operations , in millions?
+Answer:"
+finqa3453,0.02736,27.37,0.001,thousand_scale,"Question: what percentage of operating income was the emea segment in 2016?
+Answer:"
+finqa3820,985.83366,9.86,100.0,percent_unsupported,"Question: what is the average annual revenue per customer in new jersey?
+Answer:"
+finqa3849,6267.0,6.27,1000.0,thousand_scale,"Question: what was the increase in payroll and related withholdings in 2014 , in millions?
+Answer:"
+finqa3934,0.03883,38.83,0.001,thousand_scale,"Question: what was the weighted average price per share of the shares 30.9 repurchased as of february 11 , 2011
+Answer:"
+finqa4045,2.0,2012-2014,0.001,thousand_scale,"Question: what is the current tax examination period in virginia , in years?
+Answer:"
+finqa4085,9628.125,9.63,1000.0,thousand_scale,"Question: what was the ratio of the securities purchased under resale agreements to the of the resale agreements accounted for at fair value
+Answer:"
+finqa4206,0.00586,5.85,0.001,thousand_scale,"Question: in 2007 what was the ratio of the unsecured notes to the outstanding unsecured lines of credit
+Answer:"
+finqa4340,745935.0,745.935,1000.0,thousand_scale,"Question: what was the total liability in millions for capital lease and ground leases?
+Answer:"
+finqa4437,4.3,4300,0.001,thousand_scale,"Question: what was the change in average other interest-earning assets in 2011 in millions
+Answer:"
+finqa4537,2.1,2100,0.001,thousand_scale,"Question: what was the average cost of operations from 2006 to 2008 in millions
+Answer:"
+finqa4586,0.04252,42.51,0.001,thousand_scale,"Question: what would be the net profit margin in 2007 assuming that acquisitions of the company and cytyc at the beginning of fiscal 2007?
+Answer:"
+finqa4975,2022974.0,2023,1000.0,thousand_scale,"Question: what was net operating income in millions attributable to triple-net and seniors housing?
+Answer:"
+finqa5115,2574092.64,2577.64,1000.0,thousand_scale,"Question: what is the total cash received from shares purchased from employees during 2010 , in millions?
+Answer:"
+finqa5335,1095.7,1095700,0.001,thousand_scale,"Question: what was the change in the amount of the , pre-tax catastrophe losses from 2004 to 2005 in thousands
+Answer:"
+finqa5352,19101082000.0,19100000000000,0.001,thousand_scale,"Question: what amount of net capital was raised by the company at the ipo with the issuance of class a common stock?
+Answer:"
+finqa5387,61.65161,61666.67,0.001,thousand_scale,"Question: what is the total value of securities approved by security holders , ( in millions ) ?
+Answer:"
+finqa5435,9459.0,9.46,1000.0,thousand_scale,"Question: what was the change in the federal provision/ ( benefit ) from 2013 to 2014 in millions
+Answer:"
+finqa5516,0.00602,6.02,0.001,thousand_scale,"Question: at december 31 , 2002 what was the ratio of the company unsecured debt to the secured debt outstanding
+Answer:"
+finqa5583,10000410.0,99590,100.0,percent_unsupported,"Question: if $ 100000 are invested in s&p500 in may 2011 , what will be the total value of the investment in may 2012?
+Answer:"
+finqa5847,834.8,84751,0.01,percent_unsupported,"Question: what was the total purchase price in cash payment for the sentinelle medical acquisition?
+Answer:"
+finqa5947,402.0,0.402,1000.0,thousand_scale,"Question: what was the change in the 2 discretionary matching contributions from 2004 to 2005 in millions
+Answer:"
+finqa6088,8.53082,853.5,0.01,percent_unsupported,"Question: what is the total units of shipment volume for smokeless products in 2015 , in millions?
+Answer:"

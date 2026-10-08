@@ -1,0 +1,117 @@
+id,gold,pred,scale,kind,question
+tatqa48,$(9.8) million,-9819,0.001,thousand_scale,"Question: What was the net profit/(loss) after tax in FY19?
+Answer:"
+tatqa49,$85.1 million,85100,0.001,thousand_scale,"Question: What was the underlying EBITDA in FY19?
+Answer:"
+tatqa53,-16458,-16.4,1000.0,thousand_scale,"Question: What was the difference in net profit between both FYs?
+Answer:"
+tatqa142,12122,"12,122,000",0.001,thousand_scale,"Question: What is the total number of nonvested shares as of December 31, 2019 and 2018?
+Answer:"
+tatqa184,13,"13,000",0.001,thousand_scale,"Question: What was the change in Total Other in 2018 from 2017?
+Answer:"
+tatqa264,$1.1 million,"1,100",0.001,thousand_scale,"Question: What was the liability reserve for unrecognized income tax position at 31 March 2019?
+Answer:"
+tatqa269,100,"100,000",0.001,thousand_scale,"Question: What was the increase / (decrease) in the asset retirement obligation from 2021-2022 to 2022-2023?
+Answer:"
+tatqa294,$29.3 million,29300,0.001,thousand_scale,"Question: What was the increase in our cost of license and subscription revenue?
+Answer:"
+tatqa296,$9.5 million,"9,500",0.001,thousand_scale,"Question: What was the hosting related costs in 2018?
+Answer:"
+tatqa379,$72.3 million,72300,0.001,thousand_scale,"Question: How much was borrowed under credit facilities during 2019?
+Answer:"
+tatqa380,$54.5 million,54500,0.001,thousand_scale,"Question: How much was the debt outstanding as at 2019 year end?
+Answer:"
+tatqa432,$2.5 million,2500,0.001,thousand_scale,"Question: What was the depreciation amount in 2019?
+Answer:"
+tatqa433,$2.6 million,2600,0.001,thousand_scale,"Question: What was the depreciation amount in 2018?
+Answer:"
+tatqa434,$2.5 million,"2,500",0.001,thousand_scale,"Question: What was the total amortization expense on capitalized internal-use software in 2019?
+Answer:"
+tatqa469,"3,770","3,770,000",0.001,thousand_scale,"Question: What is the current trade receivables in 2019?
+Answer:"
+tatqa471,716,"716,000",0.001,thousand_scale,"Question: What is the change in Trade receivables from 2018 to 2019?
+Answer:"
+tatqa485,16811.5,16811500,0.001,thousand_scale,"Question: What is the average value of Prepared chicken for October 31, 2019 and 2018?
+Answer:"
+tatqa502,$148.6 million,"148,599",0.001,thousand_scale,"Question: What was the income from vessel operations for Teekay LNG in 2018?
+Answer:"
+tatqa511,$8.0 million,8000,0.001,thousand_scale,"Question: How much was the company's investment in Talespin, Inc?
+Answer:"
+tatqa520,31,31000,0.001,thousand_scale,"Question: What was the change in amounts due to related parties from 2018 to 2019?
+Answer:"
+tatqa532,-181,"-181,000",0.001,thousand_scale,"Question: What was the change in accrued expenses between 2018 and 2019?
+Answer:"
+tatqa548,"1,289,962","$1,290.0",1000.0,thousand_scale,"Question: What is the net sales arising from total electronic components in 2019?
+Answer:"
+tatqa550,229316,229.3,1000.0,thousand_scale,"Question: What is the change in total net sales between 2018 and 2019?
+Answer:"
+tatqa572,$2.2 million,"2,200",0.001,thousand_scale,"Question: How much did North America expenses decrease by from 2018 to 2019?
+Answer:"
+tatqa573,2904,"2,904,000",0.001,thousand_scale,"Question: What is the change in income from operations between 2019 and 2018?
+Answer:"
+tatqa574,67669,67669000,0.001,thousand_scale,"Question: What is the average amount of revenues for 2018 and 2019?
+Answer:"
+tatqa657,1.9,190,0.01,percent_unsupported,"Question: What is the nominal difference for ROFE between F19 and F18?
+Answer:"
+tatqa663,303118,"303,118,000",0.001,thousand_scale,"Question: What is the average voyage revenue in 2018 and 2019?
+Answer:"
+tatqa664,153391,"153,391,000",0.001,thousand_scale,"Question: What is the average voyage expenses in 2018 and 2019?
+Answer:"
+tatqa665,149727,"149,727,000",0.001,thousand_scale,"Question: What is the average net voyage revenue in 2018 and 2019?
+Answer:"
+tatqa674,8,8000,0.001,thousand_scale,"Question: What was the total maturities and repayments of senior notes in fiscal 2019 and fiscal 2018?
+Answer:"
+tatqa821,569,"569,000",0.001,thousand_scale,"Question: What is the change in Cost of revenue of Client services from 2018 to 2017?
+Answer:"
+tatqa864,$3.0 million,3000,0.001,thousand_scale,"Question: What was the company's accrued interest and penalties in 2019?
+Answer:"
+tatqa882,"$1,955","1,955,000",0.001,thousand_scale,"Question: What was the service cost in 2019?
+Answer:"
+tatqa895,$1.8 million,1800,0.001,thousand_scale,"Question: How much cash was provided from financing activities in 2018?
+Answer:"
+tatqa907,"96,168",96168000,0.001,thousand_scale,"Question: What is the total external revenues from Canada in 2019?
+Answer:"
+tatqa954,$16.9 million,16901,0.001,thousand_scale,"Question: What was the increase in interest income in 2019?
+Answer:"
+tatqa958,21731.5,"21,731,500",0.001,thousand_scale,"Question: What was the average Interest income for 2018 and 2019?
+Answer:"
+tatqa1005,910,910000,0.001,thousand_scale,"Question: What was the average interest income for 2017 and 2018?
+Answer:"
+tatqa1024,5.4,5400,0.001,thousand_scale,"Question: What is the total amount reflected as a long-term liability in 2018 and 2019?
+Answer:"
+tatqa1097,$3.5 million,3500,0.001,thousand_scale,"Question: What was the pre-tax legal expense relating to Hetronic litigation in 2019?
+Answer:"
+tatqa1143,4055,"4,055,000",0.001,thousand_scale,"Question: What was the difference between total net receivables and current net receivables?
+Answer:"
+tatqa1144,4558,"4,558,000",0.001,thousand_scale,"Question: What is the difference in the gross carrying amount between the current and the total?
+Answer:"
+tatqa1155,134,134000,0.001,thousand_scale,"Question: What is the average amount of payroll taxes for 2018 and 2019?
+Answer:"
+tatqa1212,$1.9 million,"1,900",0.001,thousand_scale,"Question: What is the value of the goodwill impairment charge in the fourth quarter of 2019?
+Answer:"
+tatqa1213,$14.7 million,14700,0.001,thousand_scale,"Question: What is the value of the goodwill impairment charge in the third quarter of 2018?
+Answer:"
+tatqa1215,8325,"8,325,000",0.001,thousand_scale,"Question: What is the company's average goodwill impairment in 2018 and 2019?
+Answer:"
+tatqa1242,0.9,900,0.001,thousand_scale,"Question: How much of the costs incurred during fiscal year 2018 was related to the relocation of the Company's facilities?
+Answer:"
+tatqa1245,502,"502,000",0.001,thousand_scale,"Question: What was the change in the Plant start-up costs between 2017 and 2018?
+Answer:"
+tatqa1252,258.33,258333.33,0.001,thousand_scale,"Question: What was the average cost of revenues between 2017-2019?
+Answer:"
+tatqa1253,52,"52,000",0.001,thousand_scale,"Question: What was the change in the Selling, general and administrative between 2018 and 2019?
+Answer:"
+tatqa1284,$2.7 billion,2700,0.001,thousand_scale,"Question: What was the amortization and deferred cost expense in 2019?
+Answer:"
+tatqa1285,$2.0 billion,"2,000",0.001,thousand_scale,"Question: What was the amortization and deferred cost expense in 2018?
+Answer:"
+tatqa1415,714,"714,000",0.001,thousand_scale,"Question: What is the difference in the increase of Travel and communication expense in fiscal years 2019 and 2018 as compared to 2018 and 2017? 
+Answer:"
+tatqa1488,$1.2 million,"1,205",0.001,thousand_scale,"Question: What was the increase in interest income?
+Answer:"
+tatqa1522,48007,"48,007,000",0.001,thousand_scale,"Question: What is the total gross profit altogether for years ended December 31, 2018 and 2019?
+Answer:"
+tatqa1523,24539,"24,539,000",0.001,thousand_scale,"Question: What is the total selling expenses altogether for years ended December 31, 2018 and 2019?
+Answer:"
+tatqa1529,217805,"217,805,000",0.001,thousand_scale,"Question: What was the difference in the net sales in 2019 between APAC and EMEA?
+Answer:"

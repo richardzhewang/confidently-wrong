@@ -1,0 +1,83 @@
+id,gold,pred,scale,kind,question
+tatqa40,73,"$73,000",0.001,thousand_scale,"Question: What was the change in Value added tax receivables, net, noncurrent in 2019 from 2018?
+Answer:"
+tatqa49,$85.1 million,"85,123",0.001,thousand_scale,"Question: What was the underlying EBITDA in FY19?
+Answer:"
+tatqa109,"288,764",288.764,1000.0,thousand_scale,"Question: What was the net sales in APAC in 2017?
+Answer:"
+tatqa184,13,"$13,000",0.001,thousand_scale,"Question: What was the change in Total Other in 2018 from 2017?
+Answer:"
+tatqa250,256648,256.648,1000.0,thousand_scale,"Question: What is the increase/ (decrease) in Legal reserve within Appropriation of earnings from 2018 to 2019?
+Answer:"
+tatqa251,2849050,"2,849",1000.0,thousand_scale,"Question: What is the increase/ (decrease) in Cash dividends within Appropriation of earnings from 2018 to 2019?
+Answer:"
+tatqa255,-22772,"-$22,921,230",0.001,thousand_scale,"Question: What is the change in the operating revenue under continuing operations from 2018 to 2019?
+Answer:"
+tatqa264,$1.1 million,"$1,100",0.001,thousand_scale,"Question: What was the liability reserve for unrecognized income tax position at 31 March 2019?
+Answer:"
+tatqa280,180,"$180,000",0.001,thousand_scale,"Question: What is the average value of other current assets in 2018 and 2019?
+Answer:"
+tatqa294,$29.3 million,"29,346",0.001,thousand_scale,"Question: What was the increase in our cost of license and subscription revenue?
+Answer:"
+tatqa296,$9.5 million,"$9,500",0.001,thousand_scale,"Question: What was the hosting related costs in 2018?
+Answer:"
+tatqa316,203.67,"203,667",0.001,thousand_scale,"Question: What was the average Unvested RSUs between 2017-2019?
+Answer:"
+tatqa379,$72.3 million,"$72,300",0.001,thousand_scale,"Question: How much was borrowed under credit facilities during 2019?
+Answer:"
+tatqa380,$54.5 million,"$54,500",0.001,thousand_scale,"Question: How much was the debt outstanding as at 2019 year end?
+Answer:"
+tatqa434,$2.5 million,"$2,500",0.001,thousand_scale,"Question: What was the total amortization expense on capitalized internal-use software in 2019?
+Answer:"
+tatqa454,2359.5,"$2,359,500",0.001,thousand_scale,"Question: What is the average tax credits in 2018 and 2019?
+Answer:"
+tatqa485,16811.5,"$16,811,500",0.001,thousand_scale,"Question: What is the average value of Prepared chicken for October 31, 2019 and 2018?
+Answer:"
+tatqa502,$148.6 million,"148,599",0.001,thousand_scale,"Question: What was the income from vessel operations for Teekay LNG in 2018?
+Answer:"
+tatqa511,$8.0 million,"$8,000",0.001,thousand_scale,"Question: How much was the company's investment in Talespin, Inc?
+Answer:"
+tatqa515,8500,"$8,500,000",0.001,thousand_scale,"Question: What is the change in total non-marketable investments between 2018 and 2019?
+Answer:"
+tatqa520,31,"$31,000",0.001,thousand_scale,"Question: What was the change in amounts due to related parties from 2018 to 2019?
+Answer:"
+tatqa532,-181,"-$181,000",0.001,thousand_scale,"Question: What was the change in accrued expenses between 2018 and 2019?
+Answer:"
+tatqa547,"$1,562,474","$1,562.474",1000.0,thousand_scale,"Question: What is the total net sales in 2018?
+Answer:"
+tatqa572,$2.2 million,"$2,200",0.001,thousand_scale,"Question: How much did North America expenses decrease by from 2018 to 2019?
+Answer:"
+tatqa623,160.5,"$160,500",0.001,thousand_scale,"Question: What is the average Other for the year ended December 31, 2019 to 2018?
+Answer:"
+tatqa694,100777,"$100,777,000",0.001,thousand_scale,"Question: What is the total cost of revenue in both 2019 and 2018?
+Answer:"
+tatqa818,$0.9 million,900,0.001,thousand_scale,"Question: How much was the accrued expenses associated with the Horizon Clinicals and Series2000 Revenue Cycle businesses on the consolidated balance sheets as of December 31, 2018?
+Answer:"
+tatqa886,230,"$230,000",0.001,thousand_scale,"Question: What was the change in Recognized net actuarial (gain) loss in 2019 from 2018?
+Answer:"
+tatqa897,3290,"$3,290,000",0.001,thousand_scale,"Question: What is the difference in cash used in operating activities during 2018 and 2019?
+Answer:"
+tatqa899,2900,"$2,900,000",0.001,thousand_scale,"Question: What is the increase in the cash and cash equivalents from 2018 and 2019?
+Answer:"
+tatqa954,$16.9 million,"$16,901",0.001,thousand_scale,"Question: What was the increase in interest income in 2019?
+Answer:"
+tatqa1021,$2.8 billion,"$2,780",0.001,thousand_scale,"Question: What is the net deferred tax liability as of December 31, 2019?
+Answer:"
+tatqa1151,7642.5,"$7,642,500",0.001,thousand_scale,"Question: What is the average other receivables for 2018 and 2019?
+Answer:"
+tatqa1155,134,"$134,000",0.001,thousand_scale,"Question: What is the average amount of payroll taxes for 2018 and 2019?
+Answer:"
+tatqa1213,$14.7 million,"$14,740",0.001,thousand_scale,"Question: What is the value of the goodwill impairment charge in the third quarter of 2018?
+Answer:"
+tatqa1252,258.33,"$258,333",0.001,thousand_scale,"Question: What was the average cost of revenues between 2017-2019?
+Answer:"
+tatqa1253,52,"$52,000",0.001,thousand_scale,"Question: What was the change in the Selling, general and administrative between 2018 and 2019?
+Answer:"
+tatqa1273,$2.9 million,"$2,880",0.001,thousand_scale,"Question: What was the increase in valuation allowance in current fiscal year?
+Answer:"
+tatqa1276,7005.5,"$6,995,500",0.001,thousand_scale,"Question: What was the average Stock-based compensation for 2018 and 2019?
+Answer:"
+tatqa1488,$1.2 million,"$1,205",0.001,thousand_scale,"Question: What was the increase in interest income?
+Answer:"
+tatqa1521,411.5,"$411,500",0.001,thousand_scale,"Question: What is the average amortization expense for years ended December 31, 2018 and 2019?
+Answer:"

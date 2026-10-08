@@ -1,0 +1,11 @@
+# secrets and local environments
+.env
+.venv/
+__pycache__/
+.DS_Store
+
+# regenerable activations (about 22 GB; produced by study/code/02_extract.py)
+study/cache/
+
+# original FinQA annotations, downloaded on first use by scripts 18 and 21
+study/data/finqa_original_train.json

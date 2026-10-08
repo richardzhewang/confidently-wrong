@@ -1,0 +1,141 @@
+id,gold,pred,scale,kind,question
+finqa215,1171.4,"1,171,400**",0.001,thousand_scale,"Question: what was the change pre-tax catastrophe losses from 2016 to 2017 in thousands
+Answer:"
+finqa266,313.81356,"31,380",0.01,percent_unsupported,"Question: what were total mainline operating expenses in 2013?
+Answer:"
+finqa310,0.02472,24.69%,0.001,thousand_scale,"Question: the non-vested restricted stock balance as if december 31 2006 was what percent of the total shares reserved for future issuance under this plan?
+Answer:"
+finqa415,120384.61538,"120,384,615**",0.001,thousand_scale,"Question: what is the estimated number of outstanding shares based in the stated eps?
+Answer:"
+finqa416,3058.0,3058000,0.001,thousand_scale,"Question: what is the total expected payments related to long-term debt , including capital leases in the next 24 months , in thousands?
+Answer:"
+finqa426,1.04956,1037,0.001,thousand_scale,"Question: what was the increase in total operating revenues in 2013?
+Answer:"
+finqa457,56784.0,569.44,100.0,percent_unsupported,"Question: what was the fair value amount of emea regional consumer banking
+Answer:"
+finqa513,270111.0,270.111,1000.0,thousand_scale,"Question: what was the sum of the entergy arkansas 2019s payables from 2015 to 2017 in millions
+Answer:"
+finqa602,80481.0,804.81,100.0,percent_unsupported,"Question: what was the maximum amount of credit risk booked in the last four years , in billions?
+Answer:"
+finqa764,140003.0,139003000,0.001,thousand_scale,"Question: what was the change in cash and equivalents from 2015 to 2016?
+Answer:"
+finqa791,0.018,18%,0.001,thousand_scale,"Question: what is the percent of interest and penalties as part of the unrecognized tax benefits as of december 312007
+Answer:"
+finqa798,5805209.0,5805209000,0.001,thousand_scale,"Question: what will be the balance of long-term debt after 1 year assuming that everything is paid as planned and no additional debt is raised?
+Answer:"
+finqa847,148030.48,"147,392,880**",0.001,thousand_scale,"Question: based on average sales price , how much refined product sales revenue did mro achieve in 2008?
+Answer:"
+finqa900,35714.6,"35,813,000",0.001,thousand_scale,"Question: what was the value of the nonvested shares at december 31 2009
+Answer:"
+finqa963,350824.0,350824000,0.001,thousand_scale,"Question: how much did the annual payments increase from 2019 to 2024 and beyond?
+Answer:"
+finqa1032,104554.57447,103,1000.0,thousand_scale,"Question: what would the estimated minimum amount of tier 1 common equity be under the minimum basel 6.5% ( 6.5 % ) standard ? ( billions )
+Answer:"
+finqa1054,36500.0,"36,500,000",0.001,thousand_scale,"Question: what is the estimated yearly amortization expense related to trademarks?
+Answer:"
+finqa1168,503806.91,500,1000.0,thousand_scale,"Question: for the fourth quarter of 2016 , what was the total amount spent to repurchase shares ( in thousands ) ?\\n
+Answer:"
+finqa1512,-20100.0,-20100000,0.001,thousand_scale,"Question: in thousands , what was the change between years in gross increases in unrecognized tax benefits 2013 prior year tax positions?
+Answer:"
+finqa1567,0.0051,5.10,0.001,thousand_scale,"Question: what was the ratio of the amount of our outstanding foreign currency hedges in 2015 compared to 2014
+Answer:"
+finqa1616,1164.0,1164000,0.001,thousand_scale,"Question: what is the total increase ross unrecognized tax benefits based on positions related to prior and current year?
+Answer:"
+finqa1661,1459.0,1459000,0.001,thousand_scale,"Question: what was the change in warranty reserve between 2009 and 2010?
+Answer:"
+finqa1687,923.0,"923,000",0.001,thousand_scale,"Question: what is the net change in pension liability balance from september 2005 to september 2007?
+Answer:"
+finqa1751,5808.0,"5,800,000",0.001,thousand_scale,"Question: total shares purchased as part of publicly announced programs in the fourth quarter of 2015 totaled what?
+Answer:"
+finqa1834,17439.15,17400000,0.001,thousand_scale,"Question: what is the total fair value of vested shares in 2016?
+Answer:"
+finqa1866,-130700.0,-130.70**,1000.0,thousand_scale,"Question: what is the total return if 1000000 is invested in applied materials in 2011 and sold in 2012?
+Answer:"
+finqa1920,248961.75,249,1000.0,thousand_scale,"Question: in 2009 what was the average revenues per quarter in millions
+Answer:"
+finqa1960,2857.0,2857000,0.001,thousand_scale,"Question: what is the net increase in the balance of allowance for doubtful accounts receivable during 2015?
+Answer:"
+finqa1967,16349.0,"16,349,000",0.001,thousand_scale,"Question: what is the net change in entergy louisiana 2019s receivables from the money pool from 2015 to 2016?
+Answer:"
+finqa2035,13.0,13000,0.001,thousand_scale,"Question: what was total amount of cash held by the federal reserve bank of chicago on behalf of the cme , including cash accounts and ief programs on december 31st , 2016?
+Answer:"
+finqa2042,44222.0,44903000,0.001,thousand_scale,"Question: if no payables were paid off between 2016 and 2017 , what is the value payables which were added in 2017?
+Answer:"
+finqa2246,3339.0,3339000,0.001,thousand_scale,"Question: what is the net change in entergy louisiana 2019s receivables from the money pool from 2014 to 2015?
+Answer:"
+finqa2247,16461000.0,16461,1000.0,thousand_scale,"Question: for 2012 and 2011 , percentage rentals based on tenants 2019 sales totaled what in thousands?
+Answer:"
+finqa2333,0.035,35%,0.001,thousand_scale,"Question: what is the effective income tax rate in 2011 based on the information about the gains on sales of discontinued operations?
+Answer:"
+finqa2379,-408.0,"-408,000",0.001,thousand_scale,"Question: what is the net change in the balance of reinsurance receivables and premium receivables from 2013 to 2014?
+Answer:"
+finqa2479,7433.5,7432500,0.001,thousand_scale,"Question: what was the average related party receivables from 2009 to 2010
+Answer:"
+finqa2625,34432.92683,"3,451,600",0.01,percent_unsupported,"Question: as of december 2007 what was the approximate total of the total commercial medical membership
+Answer:"
+finqa2679,4.7,4700,0.001,thousand_scale,"Question: what is the total return generated if $ 10 million are invested in s&p500 in 2011 and sold in 2013 , in millions?
+Answer:"
+finqa2867,-0.00084,-0.84%,0.001,thousand_scale,"Question: what is the growth rate in net sales for mst in 2014?
+Answer:"
+finqa3070,0.09723,98.1%,0.001,thousand_scale,"Question: what was operating income return for 2005 in the industrial coatings segment?
+Answer:"
+finqa3151,154629.72,"154,992,700",0.001,thousand_scale,"Question: in october , 2018 , what was the total amount spent on purchased shares?
+Answer:"
+finqa3683,25366.2,24907200,0.001,thousand_scale,"Question: based on the average sales price listed above , how much did refined product sales increase from 2005 to 2007?
+Answer:"
+finqa3697,263.0,0.263,1000.0,thousand_scale,"Question: what is the change in value of fixed maturities afs from 2010 to 2011 , ( in billions ) ?
+Answer:"
+finqa3849,6267.0,6.267**,1000.0,thousand_scale,"Question: what was the increase in payroll and related withholdings in 2014 , in millions?
+Answer:"
+finqa3934,0.03883,$39.0**,0.001,thousand_scale,"Question: what was the weighted average price per share of the shares 30.9 repurchased as of february 11 , 2011
+Answer:"
+finqa3982,0.06784,67.7%,0.001,thousand_scale,"Question: in 2017 what percentage of contractual obligations for future payments under existing debt and lease commitments and purchase obligations at december 31 , 2016 is due to maturities of long-term debt?
+Answer:"
+finqa4031,385.0,"385,000",0.001,thousand_scale,"Question: what is the net change in pension liability balance from september 2006 to september 2007?
+Answer:"
+finqa4040,23595.0,23.595,1000.0,thousand_scale,"Question: for fiscal year 2004 , what was the difference between future minimum lease payments and future minimum sublease income , in millions?
+Answer:"
+finqa4045,2.0,2014,0.001,thousand_scale,"Question: what is the current tax examination period in virginia , in years?
+Answer:"
+finqa4085,9628.125,9.63,1000.0,thousand_scale,"Question: what was the ratio of the securities purchased under resale agreements to the of the resale agreements accounted for at fair value
+Answer:"
+finqa4206,0.00586,5.86,0.001,thousand_scale,"Question: in 2007 what was the ratio of the unsecured notes to the outstanding unsecured lines of credit
+Answer:"
+finqa4231,25568.0,25.408**,1000.0,thousand_scale,"Question: what is the total value of the granted shares in 2014 , ( in thousands )
+Answer:"
+finqa4244,2959.66667,2.95,1000.0,thousand_scale,"Question: how much per square foot per month does nancy peck and company charge for its 420 lexington avenue property?
+Answer:"
+finqa4415,64.0,64000,0.001,thousand_scale,"Question: what was the change in warranty reserves from 2008 to 2009?
+Answer:"
+finqa4437,4.3,4300,0.001,thousand_scale,"Question: what was the change in average other interest-earning assets in 2011 in millions
+Answer:"
+finqa4498,7662.24,"7,672,240",0.001,thousand_scale,"Question: what is the total value of the vested units?
+Answer:"
+finqa4504,227.0,"227,000",0.001,thousand_scale,"Question: what is the net change in the balance of non vested units during 2009?
+Answer:"
+finqa4537,2.1,2100**,0.001,thousand_scale,"Question: what was the average cost of operations from 2006 to 2008 in millions
+Answer:"
+finqa4625,66849.7,67.731**,1000.0,thousand_scale,"Question: for 2010 , what were the total number of shares of common stock outstanding , in thousands?
+Answer:"
+finqa4655,37553.0,37553000,0.001,thousand_scale,"Question: what is the net change in system energy 2019s receivables from the money pool from 2014 to 2015?
+Answer:"
+finqa4966,3376.0,3376000,0.001,thousand_scale,"Question: what is the net change in the balance of valuation allowance during 2015?
+Answer:"
+finqa4975,2022974.0,2022.97,1000.0,thousand_scale,"Question: what was net operating income in millions attributable to triple-net and seniors housing?
+Answer:"
+finqa5016,0.02207,22.1%,0.001,thousand_scale,"Question: what was the percent of the pre-tax expense incurred as part of the early redemption to the redemption amount
+Answer:"
+finqa5280,811.97482,0.81,1000.0,thousand_scale,"Question: what is the approximate revenue per customer in the regulated businesses?
+Answer:"
+finqa5335,1095.7,1095700,0.001,thousand_scale,"Question: what was the change in the amount of the , pre-tax catastrophe losses from 2004 to 2005 in thousands
+Answer:"
+finqa5435,9459.0,9.459,1000.0,thousand_scale,"Question: what was the change in the federal provision/ ( benefit ) from 2013 to 2014 in millions
+Answer:"
+finqa5483,344510.86957,344.5**,1000.0,thousand_scale,"Question: what the average compensation and benefits per head count in 2015?
+Answer:"
+finqa5516,0.00602,6.01,0.001,thousand_scale,"Question: at december 31 , 2002 what was the ratio of the company unsecured debt to the secured debt outstanding
+Answer:"
+finqa5914,24064.0,24064000,0.001,thousand_scale,"Question: what is the differnece between the federal and the state net operating loss carryforward?
+Answer:"
+finqa6042,0.4,400,0.001,thousand_scale,"Question: during 2006 what was the initial debt balance prior to the issuance of additional international paper debt securities for cash
+Answer:"
